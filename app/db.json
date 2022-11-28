@@ -1,0 +1,77 @@
+{
+  "user": [
+    {
+      "id": "1ed3321r341r431r341341r3413",
+      "name": "John Due",
+      "email": "john@email.com",
+      "password": "123456",
+      "type": "T",
+      "business": "007286478000195"
+    },
+    {
+      "id": "1ed3321r341r431r341341r3413",
+      "name": "Mickael Scot",
+      "email": "mickael@email.com",
+      "password": "654978",
+      "type": "T",
+      "business": "007286478000195"
+    }
+  ],
+  "session": {
+    "user": {
+      "id": "1ed3321r341r431r341341r3413",
+      "name": "John Due",
+      "email": "john@email.com",
+      "password": "123456",
+      "type": "T",
+      "business": ""
+    },
+    "token": "1021frew2r1we3r1we21rfwe1r31ew3r"
+  },
+  "truck": [
+    {
+      "id": "ASX-7436",
+      "plate": "ASX-7436",
+      "model": "RE406",
+      "brand": "Mercedez",
+      "type": "Caminhao",
+      "weigth": "2000",
+      "capacity": "10000",
+      "status": false
+    },
+    {
+      "id": "EDA-9856",
+      "plate": "EDA-9856",
+      "brand": "VOLVO",
+      "model": "V254",
+      "type": "Carreta",
+      "weigth": "1200",
+      "capacity": "36000",
+      "status": true
+    }
+  ],
+  "driver": [
+    {
+      "id": "454878975",
+      "num_doc": "454878975",
+      "validy_doc": "2025-01-01",
+      "name": "John Due",
+      "status": true
+    },
+    {
+      "id": "45789123",
+      "num_doc": "45789123",
+      "validy_doc": "2026-09-05",
+      "name": "Bino Caminhoneiro",
+      "attachment": "",
+      "status": true
+    }
+  ],
+  "business": [
+    {
+      "id": "007286478000195",
+      "code": "007286478000195",
+      "name": "Empresa LTDA"
+    }
+  ]
+}
